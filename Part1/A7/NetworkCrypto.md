@@ -8,5 +8,6 @@
 - Attached is network information for UWA Unifi (WPA2), and my phone's personal hotspot (WPA3).
 
 Link: https://www.portnox.com/cybersecurity-101/network-security/wpa3/
+<br>
 <img width="303" height="337" alt="image" src="https://github.com/user-attachments/assets/a50fc5e3-573c-4883-8825-f3ed9a9170c5" />
 <img width="306" height="313" alt="image" src="https://github.com/user-attachments/assets/e3499cd2-3634-4adc-8d3b-83df5e9ed3c8" />
