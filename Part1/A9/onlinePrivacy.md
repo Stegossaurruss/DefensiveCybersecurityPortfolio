@@ -1,6 +1,6 @@
 ## Discover privacy technique used online
 
-###### Cookies and Tracking
+##### Cookies and Tracking
 - Cookies are used to track user data, and websites are required to notify the user of cookies being used to track their data
 - Often in the form of a pop-up, there will often be options to reject or accept the use of cookies on the wbesite, or to use the least amount of cookies possible for the site to function.
 - This is so that the user can control their level of privacy by restricting how much their acitvity can be tracked.
