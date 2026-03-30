@@ -34,4 +34,3 @@
 - This applies to both videos and comments, and greatly helps to improve security on a platform as big as Youtube
 - I discovered this through more research of AI-based security implementations, as I don't always see proof of AI usage on the surface.
 - Link: Youtube (https://www.youtube.com/howyoutubeworks/our-policies/#:~:text=How%20Community%20&%20Ad%2DFriendly%20Guidelines,they're%20advertising%20on%20YouTube.)
-- 
