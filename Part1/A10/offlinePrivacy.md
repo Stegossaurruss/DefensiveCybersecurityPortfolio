@@ -1,6 +1,6 @@
 ## Discover privacy technique used offline
 
-###### Phone Lock Screen
+##### Phone Lock Screen
 - Very simple, anytime I turn off the screen on my phone it locks.
 - In order to access the phone again, I must enter my password/
 - This password works when my phone is offline, and is a device security measure to ensure privacy, that no-one else can see my information.
