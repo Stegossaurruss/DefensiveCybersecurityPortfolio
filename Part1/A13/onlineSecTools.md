@@ -27,4 +27,9 @@
 <img width="390" height="140" alt="image" src="https://github.com/user-attachments/assets/2121011f-621e-4fdd-9c92-832586f8f66d" />
 
 
-#####
+##### Browser Extension Security Tools
+- Another underrated security tool I use is UBlock Origin, as it not only blocks ads but also malicious scripts and trackers on webpages.
+- While it's primary function is to block ads for me, other browser extensions like Malwarebytes Browser Guard and Bitwarden have additional uses protecting browser usage from threats.
+- I discovered UBlock through wanting to block ads, but after some more research I came across more specific browser security extensions.
+  <img width="313" height="166" alt="image" src="https://github.com/user-attachments/assets/320587c4-8a0d-4476-8f6b-4b0dc45cf37f" />
+
