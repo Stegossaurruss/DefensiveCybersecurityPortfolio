@@ -6,5 +6,7 @@
 - This is so that the user can control their level of privacy by restricting how much their acitvity can be tracked.
 - I discovered this by learning about cookies in Agile Web Development and doing some research on regulations surrounding cookies.
 
+- I often browse the New York Times, and opening it in an incognito window immediately yields this pop-up.
+<br>
   <img width="1437" height="253" alt="image" scale="50%" src="https://github.com/user-attachments/assets/1bf792bd-8143-4035-a0d1-2be23e43fc22" />
 
