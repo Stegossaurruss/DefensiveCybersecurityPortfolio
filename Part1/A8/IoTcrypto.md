@@ -7,5 +7,6 @@
 - I discovered the cryptography by researching about my Google Home (an IoT device) and how Google uses cryptograph measures to uphold CIA.
 
 Here is my Google Home in my room
+<br>
 <img width="234" height="325" alt="image" src="https://github.com/user-attachments/assets/e150798a-9915-4293-9170-15a370397ec2" />
 
