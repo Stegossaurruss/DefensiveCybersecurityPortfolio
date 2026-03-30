@@ -7,8 +7,7 @@
 - Back door lock
 - Alarm system
 - Motion sensors
-- 
-#### A19 - Join a club
+<br>
 #### A20 - take a photo of us discussing a cybersecurity event
 #### A21 - Participate in an online discussion
 - Discord ?
