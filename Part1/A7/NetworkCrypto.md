@@ -6,6 +6,7 @@
 - When a device connects, a secure handshake is performed between device and router which allows a shared encryption key to be established and then all data sent over the network is encrypted using AES
 - As a note, WPA3 uses stronger, more modern key exchange methods and is more secure against password guessing threats.
 - Attached is network information for UWA Unifi (WPA2), and my phone's personal hotspot (WPA3).
+- I discovered this while troubleshooting my personal hotspot's connection to my Playstation 4, combined with research about Wifi cryptography.
 
 Link: https://www.portnox.com/cybersecurity-101/network-security/wpa3/
 <br>
