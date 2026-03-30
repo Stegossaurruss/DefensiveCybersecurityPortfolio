@@ -1,4 +1,6 @@
 ## Discover 5 recent security incidents
+#### Discovery
+- All of these incidents were found by browsing recent incidents, alerts and advisory boards in Australia, and around the world, and all take place in the last year.
 
 ##### Victorian Department of Education
 - The organisation was hit by a major data breach that affected all of the government schools in Victoria.
