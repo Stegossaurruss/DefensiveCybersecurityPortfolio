@@ -19,5 +19,5 @@
 - The group raised concerns over how that information is stored, what it is used for, and possibly whether or not that data, and all user data is being sold to third-party data buyers.
 - We weren't sure exactly about the policies involved, legally and with individual LLMs, but with our general distrust for large companies we all agreed that we should learn more about it.
 
-Attached is photo of us in the lab after our chat.
+Attached is photo of us in the lab after our chat. <br>
 <img width="364" height="485" alt="image" src="https://github.com/user-attachments/assets/c3459d01-8c7e-43b4-8d4e-cd460e0b1606" />
