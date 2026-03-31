@@ -6,4 +6,4 @@
 - This check works when my phone is offline, and is a device security measure to ensure privacy, for example if my unlocked phone was stolen that app would still be secure.
 - I discovered this by researching iPhone security and locking tools, and also trying not to have duplicate evidence in my portfolio.
 <br>
-<img width="186" height="383" alt="image" src="https://github.com/user-attachments/assets/90634a87-471a-481c-95d2-d9013e364f0a" />
+<img width="191" height="424" alt="image" src="https://github.com/user-attachments/assets/bed1365c-8369-4285-a1bd-5f8615cfa290" />
