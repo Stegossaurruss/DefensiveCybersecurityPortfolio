@@ -15,5 +15,9 @@
 <img width="268" height="332" alt="image" src="https://github.com/user-attachments/assets/fb9ef8ca-47e0-46e4-8a7d-f847d7fe14a9" />
 
 
-
-#####
+##### Tag-accessed drop gate
+- This is the drop gate used to access the parking lot for the sailing club I am a member of, and use to park and then walk to UWA.
+- I have a small blue tag that I press against the reader, which causes the gate to drop to the ground and I can drive over it.
+- This is an example of "something I have" access control to a restricted parking lot reserved for members only.
+<img width="342" height="251" alt="image" src="https://github.com/user-attachments/assets/e8407a9b-2ca9-454e-98d5-f11832c16047" />
+<img width="184" height="223" alt="image" src="https://github.com/user-attachments/assets/60c960a8-273b-4d0e-84e3-ba1b957ba07e" />
