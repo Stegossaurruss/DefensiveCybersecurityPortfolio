@@ -14,6 +14,6 @@
 - We also found that in order to store all primes 1024bits and under, it would require around 50000 trillion times more computer storage than currently exists on Earth
 
 ##### Attachments
-- Find the powerpoint in this folder, and a ohoto of my dad and his signature for proof!
+- Find the powerpoint in this folder, and a photo of my dad and his signature for proof!
 
 <img width="384" height="487" alt="image" src="https://github.com/user-attachments/assets/a0ff27b3-75dc-4eb8-ad88-0ff1b179cbdb" />
