@@ -6,4 +6,4 @@
 - I cannot confirm whether or not she will use the manager to actually implement diverse passwords, but I will continue to encourage her to enhance her cybersecurity measures, as well as use multi-factor authentication.
 - In the attachment I have provided a photo of her logged into the password manager on her laptop (Account shown in the menu on the top left).
 
-<img width="1092" height="716" alt="image" src="https://github.com/user-attachments/assets/6735274e-29a3-4b7f-9000-ebb5db913375" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/86346dbf-9206-4547-85c5-4597fa93a2dd" />
