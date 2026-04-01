@@ -3,7 +3,7 @@
 ##### Password Manager
 - Password managers can be used to store many passwords, so that each password can be strong and unique, not overly relying on memorising all of one's passwords.
 - I used MSecure, the login page below, and it is extremely useful in encouraging me to use diverse and complex passwords.
-<img width="465" height="294" alt="image" src="https://github.com/user-attachments/assets/01158e30-cdff-4bb5-ae5d-9c5992695843" />
+<img width="470" height="295" alt="image" src="https://github.com/user-attachments/assets/f4611687-cb41-4770-a309-6114454a8e88" />
 
 
 ##### Browser Security Warning
