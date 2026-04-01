@@ -5,7 +5,7 @@
 
 - I then went to https://truthscan.com/account and uploaded the image.
 
-- Unsurprisingly, the image was found to be synthetic with a 97% certainty.
+- Unsurprisingly, the image was found to be synthetic with a 97% certainty, confirming its generation by AI.
 
 <img width="450" height="260" alt="image" src="https://github.com/user-attachments/assets/5cea6010-64a4-400f-b6a4-0abf0a8d3cc7" />
 
